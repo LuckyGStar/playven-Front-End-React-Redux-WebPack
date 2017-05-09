@@ -1,0 +1,16 @@
+{
+  "name": "playven-frontend",
+  "homepage": "https://github.com/Ampersports/web-userfrontend",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}
